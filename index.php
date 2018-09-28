@@ -9,7 +9,7 @@
 		<div class="container-fluid invoice-builder">
 
 			<h1>Invoice Builder</h1>
-			<p><em>Complite the form and click Edit Preview button bellow to Preview the generated file on the iframe. Click Download button to download</em></p>
+			<p><em>Complite the form and click Update Preview button bellow to Preview the generated file on the iframe. Click Download button to download</em></p>
 		
 			<div class="row">
 				<div class="col-sm-6 loc_form">
